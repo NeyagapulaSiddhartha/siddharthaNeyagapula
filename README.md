@@ -1,4 +1,4 @@
-![Basketball](https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png)
+<!-- [Basketball](https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png)  -->
 
 Neyagapula Siddhartha 
 
